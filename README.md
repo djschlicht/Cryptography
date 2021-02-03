@@ -1,2 +1,2 @@
 # Cryptography
-Assignments for Cryptography (MATH 4175)
+Some scripts to solve cryptographic problems.
